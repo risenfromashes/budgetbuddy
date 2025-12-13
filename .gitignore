@@ -1,0 +1,21 @@
+# Compiled class files
+out/
+
+# LaTeX auxiliary files
+spec/*.aux
+spec/*.log
+spec/*.out
+spec/*.toc
+spec/*.synctex.gz
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.fdb_latexmk
+*.fls
